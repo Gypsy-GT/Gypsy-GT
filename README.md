@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gypsy-GT
+- 👋 Hi, I’m Jajwlya Gautam
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript framework, php and C#
 - You can contact me on gautamjajwlya@gmail.com
