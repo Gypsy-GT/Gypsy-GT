@@ -3,9 +3,8 @@
 
 - 🌱 I’m currently learning **JavaScript frameworks, ASP dotnet**
 
-- 📫 How to reach me **gautamjajwlya@gmail.com**
+- 📫Contact me on: **gautamjajwlya@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
