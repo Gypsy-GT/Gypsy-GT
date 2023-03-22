@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jajwlya Gautam</h1>
 <h3 align="center">I'm interested in learning new things</h3>
 
-- 🌱 I’m currently learning **JavaScript frameworks, ASP dotnet**
+- 🌱 I’m currently learning **JavaScript frameworks, ASP .Net**
 
 - 📫Contact me on: **gautamjajwlya@gmail.com**
 
