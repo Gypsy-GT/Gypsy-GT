@@ -16,12 +16,16 @@
 
 <br/><br/>
 
-```yaml
-name: Jajwlya Gautam
-currently_learning: [JavaScript Frameworks, ASP .NET]
-interests: [Web Development, Building Tools, Open Source]
-contact: gautamjajwlya@gmail.com
-<br/> <img src="https://github-readme-stats.vercel.app/api?username=gypsy-gt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" height="165"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gypsy-gt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" height="165"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=gypsy-gt&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165"/>
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> </div> 
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Name-Jajwlya%20Gautam-6366F1?style=flat-square&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/Role-Developer%20%26%20Builder-7C3AED?style=flat-square&logoColor=white"/></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Learning-JS%20Frameworks%20%7C%20ASP%20.NET-0EA5E9?style=flat-square&logo=lightning&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/Interests-Web%20Dev%20%7C%20Tools%20%7C%20Open%20Source-10B981?style=flat-square&logoColor=white"/></td>
+</tr>
+<tr>
+<td colspan="2"><img src="https://img.shields.io/badge/Contact-gautamjajwlya%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></td>
+</tr>
+</table>
